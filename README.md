@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<! --
-**Matheus-Gaspar/matheus-gaspar**
 - 🔭 I’m currently working on RM1 Tecnologia
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Backend and Frontend
